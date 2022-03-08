@@ -1,4 +1,5 @@
-- 👋 Hi, I’m NAYAN CH. DATTA, @nayanchdatta1
-- 👀 I’m interested in Programming, Specially Web Programming.
-- 🌱 I’m currently learning MERN, FULL STACK WEB DEVELOPMENT.
-- 💞️ I’m looking to collaborate on anything about Web Programming.
+Hello, <br>
+I have changed my github profile for some reason.
+New GitHub profile: https://github.com/nchdatta
+
+All the future projects and project updates/commits will be updated there.
